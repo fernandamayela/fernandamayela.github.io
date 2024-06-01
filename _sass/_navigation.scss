@@ -88,7 +88,7 @@
       border-radius: 0;
 
       &:hover {
-        color: #ff86c1;
+        color: $link-color-hover;
       }
 
       &.current {
@@ -342,7 +342,7 @@
     border-radius: $border-radius;
 
     &:hover {
-      color: #fff;
+      color: #fc79d0;
     }
   }
 }
@@ -407,7 +407,7 @@
     border-bottom: 1px solid $border-color;
 
     &:hover {
-      color: #000;
+      color: #fc79d0;
       background: $lighter-gray;
     }
   }
