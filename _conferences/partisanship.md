@@ -1,6 +1,6 @@
 ---
 title: "Hidden Partisanship in American Elections"
-collection: talks
+collection: conferences
 type: "Conference Presentation"
 permalink: /conferences/partisanship
 venue: "Southern Political Science Association (SPSA) Annual Conference"

@@ -1,6 +1,6 @@
 ---
 title: "Audits of the 2020 American election"
-collection: talks
+collection: conferences
 type: "Conference Presentation"
 permalink: /conferences/audit_2023
 venue: "Southern Political Science Association (SPSA) Annual Conference"
