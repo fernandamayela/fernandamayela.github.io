@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/FG_Resume.pdf/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The most up to date version of my CV can be found <a href="http://fernandamayela.github.io/files/FG_Resume.pdf">here/<a>. 
+The most up to date version of my CV can be found <a href="http://fernandamayela.github.io/files/FG_Resume.pdf">here<a>. 
 
 <embed class="pdf" 
        src="http://fernandamayela.github.io/files/FG_Resume.pdf" 
