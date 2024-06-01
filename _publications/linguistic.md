@@ -5,8 +5,8 @@ permalink: /publication/linguistic
 excerpt: 'with Alejandro Flores, Samuel Baltz, Thessalia Merivaki, Mara Suttmann-Lee, and Charles Stweart III'
 date: 2024
 venue: 'MEDSL'
-slidesurl: 
-paperurl: 
+slidesurl: ''
+paperurl: ''
 citation: ''
 ---
 
