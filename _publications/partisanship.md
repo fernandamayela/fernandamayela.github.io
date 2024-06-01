@@ -3,7 +3,7 @@ title: "Hidden Partisanship in American Elections"
 collection: publications
 permalink: /publication/partisanship
 excerpt: 'with Mason Reece, Gabrielle Péloquin-Skulski, Kate Murray, Joe Loffredo, Acevedo Jetter, K. E., Zachary Garai, Alejandro Flores, Lucas Bulić Bračulj, Samuel Baltz, and Charles Stewart III'
-date: 2024-01-01
+date: 2024
 venue: 'MEDSL'
 slidesurl: ''
 paperurl: ''
