@@ -6,7 +6,7 @@ excerpt: 'with Mason Reece, Gabrielle Péloquin-Skulski, Kate Murray, Joe Loffre
 date: 2024-01-01
 venue: 'MEDSL'
 slidesurl: 
-paperurl: 
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4721012'
 citation: 
 ---
 
