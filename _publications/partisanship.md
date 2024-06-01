@@ -7,7 +7,7 @@ date: 2024-01-01
 venue: 'MEDSL'
 slidesurl: 
 paperurl: 
-citation: 'Reece, Mason and Péloquin-Skulski, Gabrielle and Murray, Kate and Loffredo, Joseph and Acevedo Jetter, Kevin E. and Gonzalez, Fernanda and Garai, Zachary Djanogly and Flores, Alejandro and Bulić Bračulj, Luka and Baltz, Samuel and Stewart III, Charles, Hidden Partisanship in American Elections (January 6, 2024). MIT Political Science Department Research Paper No. 2024-1, Available at SSRN: https://ssrn.com/abstract=4721012'
+citation: 
 ---
 
 How nonpartisan are nonpartisan elections? Some elections are intentionally run devoid of party labels, which proponents believed would increase voter knowledge and insulate policymakers from party pressures. However, recent work suggests that partisanship increasingly structures political outcomes at the mass-, elite- and policy-levels. We build upon this work with an unprecedented data contribution both in terms of breadth and depth. Using ballot-level data from over 40 million voters in 2020 and precinct-level returns of every vote cast in 2018 and 2020, our results confirm the presence of partisanship in ostensibly nonpartisan state and local contests. We also identify important heterogeneity among types of contests and show the pitfalls of using aggregated data to analyze individual choices.
