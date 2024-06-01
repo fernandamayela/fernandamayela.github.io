@@ -12,4 +12,4 @@ redirect_from:
 <embed class="pdf" 
        src="http://fernandamayela.github.io/files/FG_Resume.pdf" 
        width="800px" 
-       height="2100px" />
+       height="2100px">
