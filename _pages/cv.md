@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="files/FG_resume.pdf" width="800px" height="2100px" />
+<embed src="files/FG_Resume.pdf" width="800px" height="2100px" />
