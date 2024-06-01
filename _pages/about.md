@@ -4,7 +4,7 @@ title: "About Me"
 author_profile: true
 ---
 
-Hi! My name is Fernanda, I'm a senior at Wellesley College majoring in political science with a minor in computer science. As an undergraduate, I have dedicated the past two years to conducting research with MIT's Election Data & Science Lab (MEDSL). My research focuses on the impact of linguistic accessibility on political engagement, specifically by analyzing the availability of online multilingual election-related information for individuals facing language barriers. 
+Hi! My name is Fernanda, I'm a senior at Wellesley College majoring in political science with a minor in computer science. As an undergraduate, I have dedicated the past three years to conducting research with MIT's Election Data & Science Lab (MEDSL). My research focuses on the impact of linguistic accessibility on political engagement, specifically by analyzing the availability of online multilingual election-related information for individuals facing language barriers. 
 
 I am originally from the Austin, Texas and enjoys readings, cross-stitching, traveling, music and spending time with my dachsund (Coco).
 
