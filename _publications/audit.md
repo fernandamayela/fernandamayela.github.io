@@ -1,22 +1,21 @@
 ---
-title: "¿Dónde diablos voto? Unexamined Variations in Linguistic Responsiveness"
+title: "Paper Title Number 1"
 collection: publications
-permalink: /publications/linguistic
-excerpt: 'with Alejandro Flores, Samuel Baltz, Thessalia Merivaki, Mara Suttmann-Lee, and Charles Stweart III'
-date: 2024
-venue: 'MEDSL'
-slidesurl: 
-paperurl: 
-citation: ''
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-When democratic offcials communicate in a particular language, they implicitly include some constituents and exclude others. Very little research has identified what factors shape or constrain this decision. We propose a simple framework called “linguistic responsiveness”, which asks how closely the languages used by democratic offcials match the languages of their constituents. Perfect linguistic responsiveness may not be feasible, but how large a gap should we expect? Departures from linguistic responsiveness may be systematically related to important political processes, with potential implications for representation and participation. We illustrate the empirical study of linguistic responsiveness by classifying the languages available across the online platforms of 672 U.S. jurisdictions. We find substantial variation with no simple explanation. The well-established impact of information ecosystems on political outcomes suggests a pressing need to understand when and why offcials are linguistically responsive.
-
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
 
 <!-- ---
 title: "Audits of the 2020 American Election"
 collection: publications
-permalink: /publications/audit
+permalink: /publication/audit
 excerpt: 'with Samuel Baltz, Kevin Guo, Jacob Jaffe, and Charles Stweart III}'
 date: 2024
 venue: 'MEDSL'
