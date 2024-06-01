@@ -2,7 +2,7 @@
 title: "Audits of the 2020 American Election Show an Accurate Vote Count"
 collection: talks
 type: "Conference Presentation"
-permalink: /talks/audit_2024
+permalink: /conferences/audit_2024
 venue: "Election Sciences, Reform, and Administration (ESRA) Conference"
 date: 2024-05-17
 location: "University of Southern California in Los Angeles | Los Angeles, California"

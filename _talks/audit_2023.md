@@ -2,7 +2,7 @@
 title: "Audits of the 2020 American election"
 collection: talks
 type: "Conference Presentation"
-permalink: /talks/audit_2023
+permalink: /conferences/audit_2023
 venue: "Southern Political Science Association (SPSA) Annual Conference"
 date: 2023-01-11
 location: "St. Pete Beach, FL"

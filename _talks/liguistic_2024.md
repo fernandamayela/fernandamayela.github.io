@@ -2,7 +2,7 @@
 title: "¿Dónde diablos voto? Unexamined Variations in Linguistic Responsiveness"
 collection: talks
 type: "Conference Presentation"
-permalink: /talks/liguistic_2024
+permalink: /conferences/liguistic_2024
 venue: "The Brennan Center for Justice"
 date: 2024-03-11
 location: "New York University | New York, NY"
