@@ -10,6 +10,6 @@ redirect_from:
 {% include base_path %}
 
 <embed class="pdf" 
-       src=="http://fernandamayela.github.io/files/FG_Resume.pdf" 
+       src="http://fernandamayela.github.io/files/FG_Resume.pdf" 
        width="800px" 
        height="2100px" />
