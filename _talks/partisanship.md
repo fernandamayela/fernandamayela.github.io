@@ -8,4 +8,4 @@ date: 2024-01-13
 location: "New Orleans, LA"
 ---
 
-Southern Political Science Association Conference: Conference Within A Conference: Heterogeneity Across State and Local Elections
+Conference Within A Conference: Heterogeneity Across State and Local Elections
