@@ -6,10 +6,8 @@ author_profile: true
 
 Hi! My name is Fernanda, I'm a senior at Wellesley College majoring in political science with a minor in computer science. As an undergraduate, I have dedicated the past three years to conducting research with MIT's Election Data & Science Lab (MEDSL). My research focuses on the impact of linguistic accessibility on political engagement, specifically by analyzing the availability of online multilingual election-related information for individuals facing language barriers. 
 
-I am originally from the Austin, Texas and enjoys readings, cross-stitching, traveling, music and spending time with my dachsund (Coco).
+I am originally from the Austin, Texas and enjoys readings, cross-stitching, traveling, music and spending time with my dachshund (Coco).
 
-Research Interests
-======
 My research interests focus on Latinx voter turnout and the factors influencing the success of progressive minority candidates in local state politics.
 
 Driven by a personal commitment to address the challenges faced by my home state, Texas, I am passionate about local state politics. As a Mexican-American from Texas, I have witnessed firsthand how Texas politicians often work against the rights of minorities, women, and marginalized communities, including immigrants, people of color, and individuals in the LGBTQ+ communities. Recognizing the need for substantial change, I am committed to addressing language accessibility as a significant barrier to political participation, particularly for non-native-English voters who often lack tailored election materials and are frequently overlooked, making Texas a state I am proud to call home.
