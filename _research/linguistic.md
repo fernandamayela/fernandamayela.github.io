@@ -1,6 +1,6 @@
 ---
 title: "¿Dónde diablos voto? Unexamined Variations in Linguistic Responsiveness"
-collection: research
+collection: publications
 permalink: /research/linguistic
 excerpt: 'with Alejandro Flores, Samuel Baltz, Thessalia Merivaki, Mara Suttmann-Lee, and Charles Stweart III'
 date: 2024

@@ -1,6 +1,6 @@
 ---
 title: "Audits of the 2020 American Election Show an Accurate Vote Count"
-collection: conferences
+collection: talks
 type: "Conference Presentation"
 permalink: /conferences/audit_2024
 venue: "Election Sciences, Reform, and Administration (ESRA) Conference"

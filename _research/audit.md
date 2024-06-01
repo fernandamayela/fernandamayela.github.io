@@ -1,6 +1,6 @@
 ---
 title: "Audits of the 2020 American Election"
-collection: research
+collection: publications
 permalink: /research/audit
 excerpt: 'with Samuel Baltz, Kevin Guo, Jacob Jaffe, and Charles Stweart III}'
 date: 2024

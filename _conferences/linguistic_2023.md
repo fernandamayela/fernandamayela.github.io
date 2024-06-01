@@ -1,6 +1,6 @@
 ---
 title: "Cultivating an Informed Electorate Across a Linguistic Divide"
-collection: conferences
+collection: talks
 type: "Conference Presentation"
 permalink: /conferences/linguistic_2023
 venue: "Southern Political Science Association (SPSA) Annual Conference"
