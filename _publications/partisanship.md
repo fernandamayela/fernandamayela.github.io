@@ -2,12 +2,14 @@
 title: "Hidden Partisanship in American Elections"
 collection: publications
 permalink: /publication/partisanship
-excerpt: 'with Mason Reece, Gabrielle Péloquin-Skulski, Kate Murray, Joe Loffredo, Acevedo Jetter, K. E., Zachary Garai, Alejandro Flores, Lucas Bulić Bračulj, Samuel Baltz, and Charles Stewart III'
+excerpt: 'with Mason Reece, Gabrielle Péloquin-Skulski, Kate Murray, Joe Loffredo, Kevin E. Acevedo Jetter, Zachary Garai, Alejandro Flores, Lucas Bulić Bračulj, Samuel Baltz, and Charles Stewart III'
 date: 2024-01-01
 venue: 'MEDSL'
 slidesurl: 
 paperurl: 
-citation: 
+citation: 'Reece, Mason and Péloquin-Skulski, Gabrielle and Murray, Kate and Loffredo, Joseph and Acevedo Jetter, Kevin E. and Gonzalez, Fernanda and Garai, Zachary Djanogly and Flores, Alejandro and Bulić Bračulj, Luka and Baltz, Samuel and Stewart III, Charles, Hidden Partisanship in American Elections (January 6, 2024). MIT Political Science Department Research Paper No. 2024-1, Available at SSRN: https://ssrn.com/abstract=4721012'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+How nonpartisan are nonpartisan elections? Some elections are intentionally run devoid of party labels, which proponents believed would increase voter knowledge and insulate policymakers from party pressures. However, recent work suggests that partisanship increasingly structures political outcomes at the mass-, elite- and policy-levels. We build upon this work with an unprecedented data contribution both in terms of breadth and depth. Using ballot-level data from over 40 million voters in 2020 and precinct-level returns of every vote cast in 2018 and 2020, our results confirm the presence of partisanship in ostensibly nonpartisan state and local contests. We also identify important heterogeneity among types of contests and show the pitfalls of using aggregated data to analyze individual choices.
+
+Keywords: partisanship, local elections, state elections
