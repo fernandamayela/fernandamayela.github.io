@@ -3,7 +3,8 @@ title: "Research Experience"
 permalink: /experience/
 author_profile: true
 ---
-## MIT Election Data + Science Lab (MEDSL) 
+MIT Election Data + Science Lab (MEDSL) 
+--
 **Research Assistant** (*May 2023 – Present*)<br>
 Dr. Alejandro Flores, Dr. Samuel Baltz, and Dr. Charles Stewart III (**MIT**)<br>
 • Conducted extensive research on the availability of online multilingual election-related information.<br>
@@ -11,17 +12,20 @@ Dr. Alejandro Flores, Dr. Samuel Baltz, and Dr. Charles Stewart III (**MIT**)<br
 • Created nationwide precinct-level datasets for the 2020 and 2022 election cycles using Python, STATA, and R.<br>
 • Developed and cleaned 2020 presidential election audit datasets for internal use, enhancing data accuracy and reliability.<br>
 
-## Ralph Bunche Summer Institute (RBSI) 
+Ralph Bunche Summer Institute (RBSI) 
+--
 **Research Fellow** (*May 2024 – June 2024*)<br>
 Dr. Paula D. McClain (**Duke University**)<br>
 • Explored the impact of Spanish-language and ethnic appeals on Latino/a/x communities, focusing on bilingual voters in local politics. <br>
 
 Work Experience
 ===
-### Texas Democratic Party
+Texas Democratic Party
+--
 **Data Science Intern** (*May 2024 – September 2024*)
 
-### Democratic National Committee (DNC)
+Democratic National Committee (DNC)
+--
 **Technology Consultant** (*September 2022 – November 2022*)<br>
 • Continued helping the Community Team in scraping, cleaning, and activating polling location data on IWillVote.com<br>
 • Analyzed state-wide voter files for canvassing in collaboration with state parties<br>
