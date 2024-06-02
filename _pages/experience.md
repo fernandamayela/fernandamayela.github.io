@@ -4,11 +4,11 @@ permalink: /experience/
 author_profile: true
 ---
 
-Texas Democratic Party
+## Texas Democratic Party
 ====
 **Data Science Intern** (*May 2024 – September 2024*)
 
-**Democratic National Committee (DNC)**
+## Democratic National Committee (DNC)
 ===
 **Technology Consultant** (*September 2022 – November 2022*)<br>
 - Continued helping the Community Team in scraping, cleaning, and activating polling location data on IWillVote.com<br>
