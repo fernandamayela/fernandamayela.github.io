@@ -4,7 +4,6 @@ permalink: /experience/
 author_profile: true
 ---
 Research Experience
-
 ## MIT Election Data + Science Lab (MEDSL) 
 **Research Assistant** (*May 2023 – Present*)<br>
 Dr. Alejandro Flores, Dr. Samuel Baltz, and Dr. Charles Stewart III (**MIT**)<br>
@@ -20,7 +19,6 @@ Dr. Paula D. McClain (**Duke University**)<br>
 
 Work Experience
 ===
-
 ## Texas Democratic Party
 **Data Science Intern** (*May 2024 – September 2024*)
 
