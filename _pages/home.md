@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Welcome 👋"
 author_profile: true
 ---
 
-Hi👋, welcome to my website! My name is Fernanda Gonzalez, I am a senior at Wellesley College majoring in political science with a minor in computer science. My research focuses on the impact of linguistic accessibility on political engagement, specifically by analyzing the availability of online multilingual election-related information for individuals facing language barriers. 
+Hi 👋, welcome to my website! My name is Fernanda Gonzalez, I am a senior at Wellesley College majoring in political science with a minor in computer science. My research focuses on the impact of linguistic accessibility on political engagement, specifically by analyzing the availability of online multilingual election-related information for individuals facing language barriers. 
 
 Driven by a personal commitment to address the challenges faced by my home state, Texas, I am committed to addressing language accessibility as a significant barrier to political participation, particularly for non-native-English voters who often lack tailored election materials and are frequently overlooked, making Texas a state I am proud to call home.
 
