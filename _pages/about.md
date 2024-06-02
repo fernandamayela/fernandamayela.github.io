@@ -16,7 +16,6 @@ author_profile: true
     cursor: pointer;
 }
 </style>
-
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     var trigger = document.querySelector('.hover-trigger');
