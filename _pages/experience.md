@@ -3,7 +3,6 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
-
 ## Texas Democratic Party
 **Data Science Intern** (*May 2024 – September 2024*)
 
