@@ -20,7 +20,8 @@ Dr. Paula D. McClain (**Duke University**)<br>
 
 Work Experience
 ===
-Texas Democratic Party
+
+Texas Democratic Party<br>
 --
 **Data Science Intern** (*May 2024 – September 2024*)<br>
 
