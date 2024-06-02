@@ -32,12 +32,12 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-My name is Fernanda, I'm a senior at Wellesley College majoring in political science with a minor in computer science. As an undergraduate, I have dedicated the past three years to conducting research with <a href="https://electionlab.mit.edu/" style="color: #F58FC0;">MIT's Election Data & Science Lab (MEDSL)</a>. My research focuses on the impact of linguistic accessibility on political engagement, specifically by analyzing the availability of online multilingual election-related information for individuals facing language barriers. 
+My name is Fernanda, I'm a senior at Wellesley College majoring in political science with a minor in computer science. As an undergraduate, I have dedicated the past three years to conducting research with MIT's Election Data & Science Lab <a href="https://electionlab.mit.edu/" style="color: #F58FC0;">(MEDSL)</a>. My research focuses on the impact of linguistic accessibility on political engagement, specifically by analyzing the availability of online multilingual election-related information for individuals facing language barriers. 
 
 I am originally from Austin, Texas and enjoy reading, cross-stitching, traveling, music, and spending time with my dachshunds 
 <span class="hover-trigger" style="color: #F58FC0;">(Coco & Pepa)</span>!
 
-<img src="https://fernandamayela.github.io/images/coco_and_pepa.png" alt="Coco and Pepa" class="hover-image" style="top: 380px; left: 800px;">
+<img src="https://fernandamayela.github.io/images/coco_and_pepa.png" alt="Coco and Pepa" class="hover-image" style="top: 370px; left: 780px;">
 
 Research Interests
 ======
