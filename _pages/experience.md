@@ -1,5 +1,5 @@
 ---
-title: "Research Experience"
+title: "Research & Work Experience"
 permalink: /experience/
 author_profile: true
 ---
@@ -16,11 +16,9 @@ Ralph Bunche Summer Institute (RBSI)
 --
 **Research Fellow** (*May 2024 – June 2024*)<br>
 Dr. Paula D. McClain (**Duke University**)<br>
-• Explored the impact of Spanish-language and ethnic appeals on Latino/a/x communities, focusing on bilingual voters in local politics. <br><br>
+• Explored the impact of Spanish-language and ethnic appeals on Latino/a/x communities, focusing on bilingual voters in local politics. <br>
 
-Work Experience
-===
-Texas Democratic Party<br>
+Texas Democratic Party
 --
 **Data Science Intern** (*May 2024 – September 2024*)<br>
 
