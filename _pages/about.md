@@ -3,11 +3,41 @@ permalink: /about-me/
 title: "About Me"
 author_profile: true
 ---
+<style>
+.hover-image {
+    display: none;
+    position: absolute;
+    width: 200px; /* Adjust the size as needed */
+    height: auto;
+    z-index: 10; /* Ensure the image is on top */
+}
+.hover-trigger {
+    position: relative;
+    cursor: pointer;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var trigger = document.querySelector('.hover-trigger');
+    var image = document.querySelector('.hover-image');
+    
+    trigger.addEventListener('mouseover', function() {
+        image.style.display = 'block';
+    });
+    
+    trigger.addEventListener('mouseout', function() {
+        image.style.display = 'none';
+    });
+});
+</script>
+
 My name is Fernanda, I'm a senior at Wellesley College majoring in political science with a minor in computer science. As an undergraduate, I have dedicated the past three years to conducting research with MIT's Election Data & Science Lab (MEDSL). My research focuses on the impact of linguistic accessibility on political engagement, specifically by analyzing the availability of online multilingual election-related information for individuals facing language barriers. 
 
-I am originally from Austin, Texas and enjoy reading, cross-stitching, traveling, music, and spending time with my dachshunds (Coco & Pepa)!
+I am originally from Austin, Texas and enjoy reading, cross-stitching, traveling, music, and spending time with my dachshunds 
+<span class="hover-trigger">(Coco & Pepa)</span>!
 
-<img src="images/coco_and_pepa.png" alt="Coco and Pepa" style="top: 20px; left: 0;">
+<img src="images/coco_and_pepa.png" alt="Coco and Pepa" class="hover-image" style="top: 2000px; left: 0;">
 
 Research Interests
 ======
