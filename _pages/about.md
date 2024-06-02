@@ -6,7 +6,7 @@ author_profile: true
 
 My name is Fernanda, I'm a senior at Wellesley College majoring in political science with a minor in computer science. As an undergraduate, I have dedicated the past three years to conducting research with MIT's Election Data & Science Lab (MEDSL). My research focuses on the impact of linguistic accessibility on political engagement, specifically by analyzing the availability of online multilingual election-related information for individuals facing language barriers. 
 
-I am originally from the Austin, Texas and enjoys readings, cross-stitching, traveling, music and spending time with my dachshunds <img src="images/coco_and_pepa.heic onmouseover="this.src='images/coco_and_pepa.heic'" onmouseout="this.src='images/coco_and_pepa.heic'"/> (Coco & Pepa)!
+I am originally from the Austin, Texas and enjoys readings, cross-stitching, traveling, music and spending time with my dachshunds <img src="images/coco_and_pepa.heic" onmouseover="this.src='images/coco_and_pepa.heic'" onmouseout="this.src='images/coco_and_pepa.heic'"> (Coco & Pepa)!
 
 <!-- ![(Coco & Pepa)](https://fernandamayela.github.io/images/coco_and_pepa.heic "Coco & Pepa")! -->
 
