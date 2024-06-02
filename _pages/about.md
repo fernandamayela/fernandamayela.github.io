@@ -3,7 +3,7 @@ permalink: /about-me/
 title: "About Me"
 author_profile: true
 ---
-<style>
+<!-- <style>
 .hover-image {
     display: none;
     position: absolute;
@@ -15,13 +15,15 @@ author_profile: true
 .hover-trigger:hover + .hover-image {
     display: block;
 }
-</style>
+</style> -->
 
 My name is Fernanda, I'm a senior at Wellesley College majoring in political science with a minor in computer science. As an undergraduate, I have dedicated the past three years to conducting research with MIT's Election Data & Science Lab (MEDSL). My research focuses on the impact of linguistic accessibility on political engagement, specifically by analyzing the availability of online multilingual election-related information for individuals facing language barriers. 
 
-I am originally from Austin, Texas and enjoy reading, cross-stitching, traveling, music, and spending time with my dachshunds <span class="hover-trigger">(Coco & Pepa)</span>!
-
-<img src="images/coco_and_pepa.png" alt="Coco and Pepa" class="hover-image">
+I am originally from Austin, Texas and enjoy reading, cross-stitching, traveling, music, and spending time with my dachshunds 
+<span class="hover-trigger" style="position: relative; cursor: pointer;">
+  (Coco & Pepa)
+  <img src="images/coco_and_pepa.png" alt="Coco and Pepa" class="hover-image" style="display: none; position: absolute; top: 20px; left: 0; width: 200px; z-index: 10;">
+</span>!
 
 <!-- ![(Coco & Pepa)](https://fernandamayela.github.io/images/coco_and_pepa.heic "Coco & Pepa")! -->
 
