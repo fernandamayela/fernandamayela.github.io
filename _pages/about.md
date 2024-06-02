@@ -37,7 +37,7 @@ My name is Fernanda, I'm a senior at Wellesley College majoring in political sci
 I am originally from Austin, Texas and enjoy reading, cross-stitching, traveling, music, and spending time with my dachshunds 
 <span class="hover-trigger">(Coco & Pepa)</span>!
 
-<img src="images/coco_and_pepa.png" alt="Coco and Pepa" class="hover-image" style="top: 2000px; left: 0;">
+<img src="images/coco_and_pepa.png" alt="Coco and Pepa" class="hover-image" style="top: 200px; left: 0;">
 
 Research Interests
 ======
