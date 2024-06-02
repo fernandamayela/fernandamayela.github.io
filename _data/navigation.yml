@@ -4,7 +4,7 @@ main:
     url: /about-me/
     
   - title: "📖 Research"
-    url: /publications/
+    url: /research/
 
   - title: "👩🏻‍🏫 Conferences"
     url: /talks/    
