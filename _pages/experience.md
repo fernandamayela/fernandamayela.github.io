@@ -22,7 +22,7 @@ Work Experience
 ===
 Texas Democratic Party
 --
-**Data Science Intern** (*May 2024 – September 2024*)
+**Data Science Intern** (*May 2024 – September 2024*)<br>
 
 Democratic National Committee (DNC)
 --
