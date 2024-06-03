@@ -5,7 +5,7 @@ author_profile: true
 ---
 MIT Election Data + Science Lab (MEDSL) 
 --
-**Research Assistant** (*May 2023 – Present*)<br>
+**Research Assistant** (*May 2022 – Present*)<br>
 Dr. Alejandro Flores, Dr. Samuel Baltz, and Dr. Charles Stewart III (**MIT**)<br>
 • Conducted extensive research on the availability of online multilingual election-related information.<br>
 • Analyzed the steps public officials took to accommodate the linguistic needs of non-native English-speaking constituents, aiming to improve political engagement among these communities.
