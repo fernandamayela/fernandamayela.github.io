@@ -14,9 +14,9 @@ main:
     
   - title: "📇 CV"
     subitems:
-      - name: "CV"
+      - title: "CV"
         url: /files/Gonzalez_CV.pdf
-      - name: "Resume"
+      - title: "Resume"
         url: /files/Resume_2024.pdf
 
   - title: "📧 Contact"
