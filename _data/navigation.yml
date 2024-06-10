@@ -13,7 +13,7 @@ main:
     url: /experience/    
     
   - title: "📇 CV"
-    subfolderitems:
+    subitems:
       - name: "CV"
         url: /files/Gonzalez_CV.pdf
       - name: "Resume"
