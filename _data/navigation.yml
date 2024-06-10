@@ -13,11 +13,7 @@ main:
     url: /experience/    
     
   - title: "📇 CV"
-    subitems:
-      - title: "CV"
-        url: /files/Gonzalez_CV.pdf
-      - title: "Resume"
-        url: /files/Resume_2024.pdf
+    url: /files/Gonzalez_CV.pdf
 
   - title: "📧 Contact"
     url: /contact/
